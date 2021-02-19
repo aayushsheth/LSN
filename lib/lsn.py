@@ -8,9 +8,9 @@ Created on Wed June  8, 2018
 import tensorflow as tf
 import numpy as np
 import time
-
+import tf_slim as slim
 # Main slim library
-slim = tf.contrib.slim
+
 
 class siamese_net(object):
   
