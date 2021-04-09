@@ -18,6 +18,8 @@ Longitudinal Siamese Network for clinical trajectory prediction
         - labels: trajectory / Dx / Px labels (binary and multiclass are supported) 
         
 - Legacy dir has older code version along with useful notebook for mapping vertex-wise CIVET data into an atlas based ROIs. 
+
+- Make sure to downgrade python and pandas or change all the functions which are outdated
   
 - Prereqs 
   - python3.5+
